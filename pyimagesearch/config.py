@@ -1,7 +1,7 @@
 # import the necessary packages
 import os
 # specify the shape of the inputs for our network
-IMG_SHAPE = (28, 28, 1)
+IMG_SHAPE = (256, 128, 1)
 # specify the batch size and number of epochs
 BATCH_SIZE = 64
 EPOCHS = 100
